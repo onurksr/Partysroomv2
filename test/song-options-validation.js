@@ -1,0 +1,14 @@
+const assert = require('node:assert/strict');
+const fs = require('node:fs');
+const path = require('node:path');
+const html = fs.readFileSync(path.join(__dirname, '..', 'index.html'), 'utf8');
+const server = fs.readFileSync(path.join(__dirname, '..', 'server.js'), 'utf8');
+assert.match(html, /song: 'opt'/, 'Şarkı oyunu çoktan seçmeli olmalı');
+assert.match(html, /else if \(kind === 'opt'\)/, 'Şarkı seçenekleri genel seçenek arayüzünde gösterilmeli');
+assert.match(server, /function buildSongChoices\(item\)[\s\S]*?norm\(m\.artist\) === artistKey && m\.lang === item\.lang/, 'Şıklar aynı sanatçı ve dildeki katalog kayıtlarından gelmeli');
+assert.match(server, /o: choices\.options, correctIndex: choices\.correctIndex/, 'Şıklar ve doğru seçenek indeksi soruya eklenmeli');
+assert.match(server, /if \(n === r\.q\.correctIndex\)[\s\S]*?ok: true/, 'Doğru seçenek doğru cevap olarak kaydedilmeli');
+assert.match(server, /rankPts = \[250, 170, 120, 80, 50\]/, 'İlk doğru cevap en yüksek temel puanı almalı');
+assert.match(server, /speedBonus\(r, a, 100\)/, 'Doğru cevaplarda hız bonusu uygulanmalı');
+assert.match(server, /matching\.length < 3/, 'Ünlü oyununda aynı cinsiyetten çeldirici bulunmalı');
+console.log('Song multiple-choice options, same-artist distractors and speed scoring validation passed.');
