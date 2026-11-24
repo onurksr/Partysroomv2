@@ -1,0 +1,2518 @@
+{
+  "songs": [
+    {
+      "title": "Ne Farkeder",
+      "artist": "Yüzyüzeyken Konuşuruz",
+      "genre": "Alternatif"
+    },
+    {
+      "title": "Dinle Beni Bi",
+      "artist": "Yüzyüzeyken Konuşuruz",
+      "genre": "Alternatif"
+    },
+    {
+      "title": "Boş Gemiler",
+      "artist": "Yüzyüzeyken Konuşuruz",
+      "genre": "Alternatif"
+    },
+    {
+      "title": "Dünyadan Uzak",
+      "artist": "Pinhani",
+      "genre": "Alternatif"
+    },
+    {
+      "title": "Beni Sen İnandır",
+      "artist": "Pinhani",
+      "genre": "Alternatif"
+    },
+    {
+      "title": "Ne güzel güldün",
+      "artist": "Pinhani",
+      "genre": "Alternatif"
+    },
+    {
+      "title": "Koca Yaşlı Şişko Dünya",
+      "artist": "Adamlar",
+      "genre": "Alternatif"
+    },
+    {
+      "title": "Zombi",
+      "artist": "Adamlar",
+      "genre": "Alternatif"
+    },
+    {
+      "title": "Rüyalarda Buruşmuşuz",
+      "artist": "Adamlar",
+      "genre": "Alternatif"
+    },
+    {
+      "title": "En Güzel Yerinde Evin",
+      "artist": "Büyük Ev Ablukada",
+      "genre": "Alternatif"
+    },
+    {
+      "title": "Hoşçakal Kadar",
+      "artist": "Büyük Ev Ablukada",
+      "genre": "Alternatif"
+    },
+    {
+      "title": "Dünyanın Sonuna Doğmuşum",
+      "artist": "Manga",
+      "genre": "rock"
+    },
+    {
+      "title": "Bir Kadın Çizeceksin",
+      "artist": "Manga",
+      "genre": "rock"
+    },
+    {
+      "title": "Beni Benimle Bırak",
+      "artist": "Manga",
+      "genre": "rock"
+    },
+    {
+      "title": "Holigan",
+      "artist": "Athena",
+      "genre": "rock"
+    },
+    {
+      "title": "Senden, Benden, Bizden",
+      "artist": "Athena",
+      "genre": "rock"
+    },
+    {
+      "title": "Arsız Gönül",
+      "artist": "Athena",
+      "genre": "rock"
+    },
+    {
+      "title": "Sil Baştan",
+      "artist": "Şebnem Ferah",
+      "genre": "rock"
+    },
+    {
+      "title": "Bu Aşk",
+      "artist": "Şebnem Ferah",
+      "genre": "rock"
+    },
+    {
+      "title": "Mayın",
+      "artist": "Şebnem Ferah",
+      "genre": "rock"
+    },
+    {
+      "title": "Paramparça",
+      "artist": "Teoman",
+      "genre": "rock"
+    },
+    {
+      "title": "Rüzgar Gülü",
+      "artist": "Teoman",
+      "genre": "rock"
+    },
+    {
+      "title": "İstanbul'da",
+      "artist": "Teoman",
+      "genre": "rock"
+    },
+    {
+      "title": "Kül",
+      "artist": "Cem Adrian",
+      "genre": "pop"
+    },
+    {
+      "title": "Sen Benim",
+      "artist": "Cem Adrian",
+      "genre": "pop"
+    },
+    {
+      "title": "Herkes Gider Mi",
+      "artist": "Cem Adrian",
+      "genre": "pop"
+    },
+    {
+      "title": "Yan Benimle",
+      "artist": "Sıla",
+      "genre": "pop"
+    },
+    {
+      "title": "Vaziyetler",
+      "artist": "Sıla",
+      "genre": "pop"
+    },
+    {
+      "title": "Kafa",
+      "artist": "Sıla",
+      "genre": "pop"
+    },
+    {
+      "title": "Büyük İnsan",
+      "artist": "Gökhan Türkmen",
+      "genre": "pop"
+    },
+    {
+      "title": "Aşk",
+      "artist": "Gökhan Türkmen",
+      "genre": "pop"
+    },
+    {
+      "title": "Deli",
+      "artist": "Gökhan Türkmen",
+      "genre": "pop"
+    },
+    {
+      "title": "Kalbimin Tek Sahibine",
+      "artist": "İrem Derici",
+      "genre": "pop"
+    },
+    {
+      "title": "Dantel",
+      "artist": "İrem Derici",
+      "genre": "pop"
+    },
+    {
+      "title": "Aşk Kaç Beden Giyer",
+      "artist": "Hadise",
+      "genre": "pop"
+    },
+    {
+      "title": "Sıfır Tolerans",
+      "artist": "Hadise",
+      "genre": "pop"
+    },
+    {
+      "title": "Janti",
+      "artist": "Murat Boz",
+      "genre": "pop"
+    },
+    {
+      "title": "Özledim",
+      "artist": "Murat Boz",
+      "genre": "pop"
+    },
+    {
+      "title": "Geri Dönüş Olsa",
+      "artist": "Murat Boz",
+      "genre": "pop"
+    },
+    {
+      "title": "Mor",
+      "artist": "Hande Yener",
+      "genre": "pop"
+    },
+    {
+      "title": "Romeo",
+      "artist": "Hande Yener",
+      "genre": "pop"
+    },
+    {
+      "title": "Bodrum",
+      "artist": "Hande Yener",
+      "genre": "pop"
+    },
+    {
+      "title": "Martılar",
+      "artist": "Edis",
+      "genre": "pop"
+    },
+    {
+      "title": "Arıyorum",
+      "artist": "Edis",
+      "genre": "pop"
+    },
+    {
+      "title": "Yalancı",
+      "artist": "Edis",
+      "genre": "pop"
+    },
+    {
+      "title": "Uslanmıyor Bu",
+      "artist": "Zeynep Bastık",
+      "genre": "pop"
+    },
+    {
+      "title": "Lan",
+      "artist": "Zeynep Bastık",
+      "genre": "pop"
+    },
+    {
+      "title": "Jest Oldu",
+      "artist": "Karsu",
+      "genre": "pop"
+    },
+    {
+      "title": "İtirazım Var",
+      "artist": "Karsu",
+      "genre": "pop"
+    },
+    {
+      "title": "Kazılı Kuyum",
+      "artist": "Yüzyüzeyken Konuşuruz",
+      "genre": "Alternatif"
+    },
+    {
+      "title": "Seni Dert Etmeler",
+      "artist": "Madrigal",
+      "genre": "Alternatif"
+    },
+    {
+      "title": "Dip",
+      "artist": "Madrigal",
+      "genre": "Alternatif"
+    },
+    {
+      "title": "Ne Zamandır",
+      "artist": "Madrigal",
+      "genre": "Alternatif"
+    },
+    {
+      "title": "Geçme Artık Sokağımdan",
+      "artist": "Madrigal",
+      "genre": "Alternatif"
+    },
+    {
+      "title": "Neyin Var",
+      "artist": "Dolu Kadehi Ters Tut",
+      "genre": "Alternatif"
+    },
+    {
+      "title": "Madem",
+      "artist": "Dolu Kadehi Ters Tut",
+      "genre": "Alternatif"
+    },
+    {
+      "title": "Islak Kum",
+      "artist": "Dolu Kadehi Ters Tut",
+      "genre": "Alternatif"
+    },
+    {
+      "title": "Koca Bir Saçmalık",
+      "artist": "Jakuzi",
+      "genre": "Alternatif"
+    },
+    {
+      "title": "Toz",
+      "artist": "Jakuzi",
+      "genre": "Alternatif"
+    },
+    {
+      "title": "Derine",
+      "artist": "Palmiyeler",
+      "genre": "Alternatif"
+    },
+    {
+      "title": "Senden Haber Yok",
+      "artist": "Palmiyeler",
+      "genre": "Alternatif"
+    },
+    {
+      "title": "Suçlarımdan Biri",
+      "artist": "Güneş",
+      "genre": "pop"
+    },
+    {
+      "title": "NKBİ",
+      "artist": "Güneş",
+      "genre": "pop"
+    },
+    {
+      "title": "Atlantis",
+      "artist": "Güneş",
+      "genre": "pop"
+    },
+    {
+      "title": "Vur",
+      "artist": "BLOK3",
+      "genre": "rap"
+    },
+    {
+      "title": "Affet",
+      "artist": "BLOK3",
+      "genre": "rap"
+    },
+    {
+      "title": "Baybay",
+      "artist": "BLOK3",
+      "genre": "rap"
+    },
+    {
+      "title": "Cehennem",
+      "artist": "Killa Hakan",
+      "genre": "rap"
+    },
+    {
+      "title": "Karma",
+      "artist": "Şehinşah",
+      "genre": "rap"
+    },
+    {
+      "title": "Güller ve Rhyme",
+      "artist": "Şehinşah",
+      "genre": "rap"
+    },
+    {
+      "title": " fare",
+      "artist": "Allame",
+      "genre": "rap"
+    },
+    {
+      "title": "Kısır Döngü",
+      "artist": "Allame",
+      "genre": "rap"
+    },
+    {
+      "title": "Yaşamak Öldürür",
+      "artist": "Joker",
+      "genre": "rap"
+    },
+    {
+      "title": "Hassick Dir",
+      "artist": "Fuat",
+      "genre": "rap"
+    },
+    {
+      "title": "Mekanın Sahibi",
+      "artist": "Norm Ender",
+      "genre": "rap"
+    },
+    {
+      "title": "Lose Yourself",
+      "artist": "Eminem",
+      "genre": "rap"
+    },
+    {
+      "title": "Without Me",
+      "artist": "Eminem",
+      "genre": "rap"
+    },
+    {
+      "title": "The Real Slim Shady",
+      "artist": "Eminem",
+      "genre": "rap"
+    },
+    {
+      "title": "God's Plan",
+      "artist": "Drake",
+      "genre": "rap"
+    },
+    {
+      "title": "One Dance",
+      "artist": "Drake",
+      "genre": "rap"
+    },
+    {
+      "title": "HUMBLE.",
+      "artist": "Kendrick Lamar",
+      "genre": "rap"
+    },
+    {
+      "title": "DNA.",
+      "artist": "Kendrick Lamar",
+      "genre": "rap"
+    },
+    {
+      "title": "Circles",
+      "artist": "Post Malone",
+      "genre": "pop"
+    },
+    {
+      "title": "Sunflower",
+      "artist": "Post Malone",
+      "genre": "pop"
+    },
+    {
+      "title": "Save Your Tears",
+      "artist": "The Weeknd",
+      "genre": "pop"
+    },
+    {
+      "title": "Starboy",
+      "artist": "The Weeknd",
+      "genre": "pop"
+    },
+    {
+      "title": "The Hills",
+      "artist": "The Weeknd",
+      "genre": "pop"
+    },
+    {
+      "title": "Levitating",
+      "artist": "Dua Lipa",
+      "genre": "pop"
+    },
+    {
+      "title": "Don't Start Now",
+      "artist": "Dua Lipa",
+      "genre": "pop"
+    },
+    {
+      "title": "New Rules",
+      "artist": "Dua Lipa",
+      "genre": "pop"
+    },
+    {
+      "title": "7 rings",
+      "artist": "Ariana Grande",
+      "genre": "pop"
+    },
+    {
+      "title": "thank u, next",
+      "artist": "Ariana Grande",
+      "genre": "pop"
+    },
+    {
+      "title": "Into You",
+      "artist": "Ariana Grande",
+      "genre": "pop"
+    },
+    {
+      "title": "Shake It Off",
+      "artist": "Taylor Swift",
+      "genre": "pop"
+    },
+    {
+      "title": "Blank Space",
+      "artist": "Taylor Swift",
+      "genre": "pop"
+    },
+    {
+      "title": "Anti-Hero",
+      "artist": "Taylor Swift",
+      "genre": "pop"
+    },
+    {
+      "title": "bad guy",
+      "artist": "Billie Eilish",
+      "genre": "pop"
+    },
+    {
+      "title": "Happier Than Ever",
+      "artist": "Billie Eilish",
+      "genre": "pop"
+    },
+    {
+      "title": "Birds of a Feather",
+      "artist": "Billie Eilish",
+      "genre": "pop"
+    },
+    {
+      "title": "Viva la Vida",
+      "artist": "Coldplay",
+      "genre": "rock"
+    },
+    {
+      "title": "Paradise",
+      "artist": "Coldplay",
+      "genre": "rock"
+    },
+    {
+      "title": "Yellow",
+      "artist": "Coldplay",
+      "genre": "rock"
+    },
+    {
+      "title": "Numb",
+      "artist": "Linkin Park",
+      "genre": "rock"
+    },
+    {
+      "title": "In the End",
+      "artist": "Linkin Park",
+      "genre": "rock"
+    },
+    {
+      "title": "What I've Done",
+      "artist": "Linkin Park",
+      "genre": "rock"
+    },
+    {
+      "title": "Believer",
+      "artist": "Imagine Dragons",
+      "genre": "rock"
+    },
+    {
+      "title": "Thunder",
+      "artist": "Imagine Dragons",
+      "genre": "rock"
+    },
+    {
+      "title": "Demons",
+      "artist": "Imagine Dragons",
+      "genre": "rock"
+    },
+    {
+      "title": "Don't Stop Me Now",
+      "artist": "Queen",
+      "genre": "rock"
+    },
+    {
+      "title": "Another One Bites the Dust",
+      "artist": "Queen",
+      "genre": "rock"
+    },
+    {
+      "title": "We Will Rock You",
+      "artist": "Queen",
+      "genre": "rock"
+    },
+    {
+      "title": "Dancing Queen",
+      "artist": "ABBA",
+      "genre": "pop"
+    },
+    {
+      "title": "Mamma Mia",
+      "artist": "ABBA",
+      "genre": "pop"
+    },
+    {
+      "title": "Billie Jean",
+      "artist": "Michael Jackson",
+      "genre": "pop"
+    },
+    {
+      "title": "Beat It",
+      "artist": "Michael Jackson",
+      "genre": "pop"
+    },
+    {
+      "title": "Umbrella",
+      "artist": "Rihanna",
+      "genre": "pop"
+    },
+    {
+      "title": "Diamonds",
+      "artist": "Rihanna",
+      "genre": "pop"
+    },
+    {
+      "title": "Bad Romance",
+      "artist": "Lady Gaga",
+      "genre": "pop"
+    },
+    {
+      "title": "Poker Face",
+      "artist": "Lady Gaga",
+      "genre": "pop"
+    },
+    {
+      "title": "Chandelier",
+      "artist": "Sia",
+      "genre": "pop"
+    },
+    {
+      "title": "Rolling in the Deep",
+      "artist": "Adele",
+      "genre": "pop"
+    },
+    {
+      "title": "Someone Like You",
+      "artist": "Adele",
+      "genre": "pop"
+    },
+    {
+      "title": "Uptown Funk",
+      "artist": "Bruno Mars",
+      "genre": "pop"
+    },
+    {
+      "title": "24K Magic",
+      "artist": "Bruno Mars",
+      "genre": "pop"
+    },
+    {
+      "title": "As It Was",
+      "artist": "Harry Styles",
+      "genre": "pop"
+    },
+    {
+      "title": "Sorry",
+      "artist": "Justin Bieber",
+      "genre": "pop"
+    },
+    {
+      "title": "Love Yourself",
+      "artist": "Justin Bieber",
+      "genre": "pop"
+    },
+    {
+      "title": "Hips Don't Lie",
+      "artist": "Shakira",
+      "genre": "pop"
+    },
+    {
+      "title": "Wake Me Up",
+      "artist": "Avicii",
+      "genre": "pop"
+    },
+    {
+      "title": "The Nights",
+      "artist": "Avicii",
+      "genre": "pop"
+    },
+    {
+      "title": "Summer",
+      "artist": "Calvin Harris",
+      "genre": "pop"
+    },
+    {
+      "title": "Get Lucky",
+      "artist": "Daft Punk",
+      "genre": "pop"
+    },
+    {
+      "title": "One More Time",
+      "artist": "Daft Punk",
+      "genre": "pop"
+    },
+    {
+      "title": "The Less I Know the Better",
+      "artist": "Tame Impala",
+      "genre": "Alternatif"
+    },
+    {
+      "title": "Summertime Sadness",
+      "artist": "Lana Del Rey",
+      "genre": "pop"
+    },
+    {
+      "title": "Young and Beautiful",
+      "artist": "Lana Del Rey",
+      "genre": "pop"
+    },
+    {
+      "title": "Espresso",
+      "artist": "Sabrina Carpenter",
+      "genre": "pop"
+    },
+    {
+      "title": "good 4 u",
+      "artist": "Olivia Rodrigo",
+      "genre": "pop"
+    },
+    {
+      "title": "Good Luck, Babe!",
+      "artist": "Chappell Roan",
+      "genre": "pop"
+    },
+    {
+      "title": "Senden Daha Güzel",
+      "artist": "Duman",
+      "genre": "rock"
+    },
+    {
+      "title": "Belki Alışman Lazım",
+      "artist": "Duman",
+      "genre": "rock"
+    },
+    {
+      "title": "Her Şeyi Yak",
+      "artist": "Duman",
+      "genre": "rock"
+    },
+    {
+      "title": "Köprüaltı",
+      "artist": "Duman",
+      "genre": "rock"
+    },
+    {
+      "title": "aman aman",
+      "artist": "Duman",
+      "genre": "rock"
+    },
+    {
+      "title": "Cambaz",
+      "artist": "Mor ve Ötesi",
+      "genre": "rock"
+    },
+    {
+      "title": "Bir Derdim Var",
+      "artist": "Mor ve Ötesi",
+      "genre": "rock"
+    },
+    {
+      "title": "Deli",
+      "artist": "Mor ve Ötesi",
+      "genre": "rock"
+    },
+    {
+      "title": "Uyan",
+      "artist": "Mor ve Ötesi",
+      "genre": "rock"
+    },
+    {
+      "title": "Oyunbozan",
+      "artist": "Mor ve Ötesi",
+      "genre": "rock"
+    },
+    {
+      "title": "Zalim",
+      "artist": "Yalın",
+      "genre": "pop"
+    },
+    {
+      "title": "Küçücüğüm",
+      "artist": "Yalın",
+      "genre": "pop"
+    },
+    {
+      "title": "Ki Sen",
+      "artist": "Yalın",
+      "genre": "pop"
+    },
+    {
+      "title": "Benimki",
+      "artist": "Yalın",
+      "genre": "pop"
+    },
+    {
+      "title": "Her şey Sensin",
+      "artist": "Yalın",
+      "genre": "pop"
+    },
+    {
+      "title": "Çakkıdı",
+      "artist": "Kenan Doğulu",
+      "genre": "pop"
+    },
+    {
+      "title": "Aşkım Aşkım",
+      "artist": "Kenan Doğulu",
+      "genre": "pop"
+    },
+    {
+      "title": "Tutamıyorum Zamanı",
+      "artist": "Kenan Doğulu",
+      "genre": "pop"
+    },
+    {
+      "title": "Güzeller İçinden",
+      "artist": "Kenan Doğulu",
+      "genre": "pop"
+    },
+    {
+      "title": "Rengârenk",
+      "artist": "Sertab Erener",
+      "genre": "pop"
+    },
+    {
+      "title": "Aşk",
+      "artist": "Sertab Erener",
+      "genre": "pop"
+    },
+    {
+      "title": "Kendime Yeni Bir Ben Lazım",
+      "artist": "Sertab Erener",
+      "genre": "pop"
+    },
+    {
+      "title": "Everyway That I Can",
+      "artist": "Sertab Erener",
+      "genre": "pop"
+    },
+    {
+      "title": "Gəl",
+      "artist": "Röya",
+      "genre": "pop"
+    },
+    {
+      "title": "Doldur",
+      "artist": "Röya",
+      "genre": "pop"
+    },
+    {
+      "title": "Yaş Hikayesi",
+      "artist": "Merve Özbey",
+      "genre": "pop"
+    },
+    {
+      "title": "Kendine Dünya",
+      "artist": "Merve Özbey",
+      "genre": "pop"
+    },
+    {
+      "title": "Topsuz tüfeksiz",
+      "artist": "Merve Özbey",
+      "genre": "pop"
+    },
+    {
+      "title": "Elbette",
+      "artist": "Candan Erçetin",
+      "genre": "pop"
+    },
+    {
+      "title": "Yalan",
+      "artist": "Candan Erçetin",
+      "genre": "pop"
+    },
+    {
+      "title": "Gamsız",
+      "artist": "Candan Erçetin",
+      "genre": "pop"
+    },
+    {
+      "title": "Bahar",
+      "artist": "Candan Erçetin",
+      "genre": "pop"
+    },
+    {
+      "title": "Yak Gel",
+      "artist": "Funda Arar",
+      "genre": "pop"
+    },
+    {
+      "title": "Aşkın Masum Çocukları",
+      "artist": "Funda Arar",
+      "genre": "pop"
+    },
+    {
+      "title": "Senden Öğrendim",
+      "artist": "Funda Arar",
+      "genre": "pop"
+    },
+    {
+      "title": "Araftayım",
+      "artist": "Ebru Gündeş",
+      "genre": "pop"
+    },
+    {
+      "title": "Çingenem",
+      "artist": "Ebru Gündeş",
+      "genre": "pop"
+    },
+    {
+      "title": "Fırtınalar",
+      "artist": "Ebru Gündeş",
+      "genre": "pop"
+    },
+    {
+      "title": "Demir",
+      "artist": "Ebru Gündeş",
+      "genre": "pop"
+    },
+    {
+      "title": "Depresyondayım",
+      "artist": "Göksel",
+      "genre": "pop"
+    },
+    {
+      "title": "Karşılaşma",
+      "artist": "Göksel",
+      "genre": "pop"
+    },
+    {
+      "title": "Acıyor",
+      "artist": "Göksel",
+      "genre": "pop"
+    },
+    {
+      "title": "Uzaktan",
+      "artist": "Göksel",
+      "genre": "pop"
+    },
+    {
+      "title": "Yaz Yaz Yaz",
+      "artist": "Ajda Pekkan",
+      "genre": "pop"
+    },
+    {
+      "title": "Petrol",
+      "artist": "Ajda Pekkan",
+      "genre": "pop"
+    },
+    {
+      "title": "Bambaşka Biri",
+      "artist": "Ajda Pekkan",
+      "genre": "pop"
+    },
+    {
+      "title": "Oyalama Beni",
+      "artist": "Ajda Pekkan",
+      "genre": "pop"
+    },
+    {
+      "title": "Kanatlarım Var Ruhumda",
+      "artist": "Nil Karaibrahimgil",
+      "genre": "pop"
+    },
+    {
+      "title": "Pırlanta",
+      "artist": "Nil Karaibrahimgil",
+      "genre": "pop"
+    },
+    {
+      "title": "Ben Buraya Çıplak Geldim",
+      "artist": "Nil Karaibrahimgil",
+      "genre": "pop"
+    },
+    {
+      "title": "Gülümse",
+      "artist": "Sezen Aksu",
+      "genre": "pop"
+    },
+    {
+      "title": "Hadi Bakalım",
+      "artist": "Sezen Aksu",
+      "genre": "pop"
+    },
+    {
+      "title": "Tükeneceğiz",
+      "artist": "Sezen Aksu",
+      "genre": "pop"
+    },
+    {
+      "title": "Şinanay",
+      "artist": "Sezen Aksu",
+      "genre": "pop"
+    },
+    {
+      "title": "Anason",
+      "artist": "Zakkum",
+      "genre": "rock"
+    },
+    {
+      "title": "Ben Ne Yangınlar Gördüm",
+      "artist": "Zakkum",
+      "genre": "rock"
+    },
+    {
+      "title": "Hatıran Yeter",
+      "artist": "Zakkum",
+      "genre": "rock"
+    },
+    {
+      "title": "Gökyüzünde",
+      "artist": "Zakkum",
+      "genre": "rock"
+    },
+    {
+      "title": "Yıldızların Altında",
+      "artist": "Kargo",
+      "genre": "rock"
+    },
+    {
+      "title": "Şairin Elinde",
+      "artist": "Kargo",
+      "genre": "rock"
+    },
+    {
+      "title": "Adımı",
+      "artist": "Kargo",
+      "genre": "rock"
+    },
+    {
+      "title": "Boğaziçi",
+      "artist": "Kargo",
+      "genre": "rock"
+    },
+    {
+      "title": "Aşk Nerden Nereye",
+      "artist": "Gripin",
+      "genre": "rock"
+    },
+    {
+      "title": "Durma Yağmur Durma",
+      "artist": "Gripin",
+      "genre": "rock"
+    },
+    {
+      "title": "Yalnızlığın Çaresini Bulmuşlar",
+      "artist": "Gripin",
+      "genre": "rock"
+    },
+    {
+      "title": "Cevapsız Sorular",
+      "artist": "maNga",
+      "genre": "rock"
+    },
+    {
+      "title": "We Could Be the Same",
+      "artist": "maNga",
+      "genre": "rock"
+    },
+    {
+      "title": "Ferman",
+      "artist": "maNga",
+      "genre": "rock"
+    },
+    {
+      "title": "Holocaust",
+      "artist": "Ceza",
+      "genre": "rap"
+    },
+    {
+      "title": "Suspus",
+      "artist": "Ceza",
+      "genre": "rap"
+    },
+    {
+      "title": "Med Cezir",
+      "artist": "Ceza",
+      "genre": "rap"
+    },
+    {
+      "title": "Neyim Var Ki",
+      "artist": "Ceza",
+      "genre": "rap"
+    },
+    {
+      "title": "366. Gün",
+      "artist": "Sagopa Kajmer",
+      "genre": "rap"
+    },
+    {
+      "title": "Vasiyet",
+      "artist": "Sagopa Kajmer",
+      "genre": "rap"
+    },
+    {
+      "title": "Bir Pesimistin Gözyaşları",
+      "artist": "Sagopa Kajmer",
+      "genre": "rap"
+    },
+    {
+      "title": "Galiba",
+      "artist": "Sagopa Kajmer",
+      "genre": "rap"
+    },
+    {
+      "title": "Heyecanı Yok",
+      "artist": "Gazapizm",
+      "genre": "rap"
+    },
+    {
+      "title": "Unutulacak Dünler",
+      "artist": "Gazapizm",
+      "genre": "rap"
+    },
+    {
+      "title": "Pisliğin İçinde",
+      "artist": "Gazapizm",
+      "genre": "rap"
+    },
+    {
+      "title": "Sağı Solu Kes",
+      "artist": "Gazapizm",
+      "genre": "rap"
+    },
+    {
+      "title": "Demet Akalın",
+      "artist": "Ben Fero",
+      "genre": "rap"
+    },
+    {
+      "title": "bil",
+      "artist": "Ben Fero",
+      "genre": "rap"
+    },
+    {
+      "title": "Babafingo",
+      "artist": "Ben Fero",
+      "genre": "rap"
+    },
+    {
+      "title": "MİLYON",
+      "artist": "Ben Fero",
+      "genre": "rap"
+    },
+    {
+      "title": "Geceler",
+      "artist": "Ezhel",
+      "genre": "rap"
+    },
+    {
+      "title": "Felaket",
+      "artist": "Ezhel",
+      "genre": "rap"
+    },
+    {
+      "title": "Şehrimin Tadı",
+      "artist": "Ezhel",
+      "genre": "rap"
+    },
+    {
+      "title": "İmkansızım",
+      "artist": "Ezhel",
+      "genre": "rap"
+    },
+    {
+      "title": "10 MG",
+      "artist": "Motive",
+      "genre": "rap"
+    },
+    {
+      "title": "RACKS",
+      "artist": "Motive",
+      "genre": "rap"
+    },
+    {
+      "title": "Ömrüm",
+      "artist": "Motive",
+      "genre": "rap"
+    },
+    {
+      "title": "KASVET",
+      "artist": "Motive",
+      "genre": "rap"
+    },
+    {
+      "title": "Krvn",
+      "artist": "Uzi",
+      "genre": "rap"
+    },
+    {
+      "title": "Makina",
+      "artist": "Uzi",
+      "genre": "rap"
+    },
+    {
+      "title": "Arasan da",
+      "artist": "Uzi",
+      "genre": "rap"
+    },
+    {
+      "title": "Pap",
+      "artist": "Uzi",
+      "genre": "rap"
+    },
+    {
+      "title": "Bilmem Mi?",
+      "artist": "Sefo",
+      "genre": "rap"
+    },
+    {
+      "title": "Isabelle",
+      "artist": "Sefo",
+      "genre": "rap"
+    },
+    {
+      "title": "Affettim",
+      "artist": "Sefo",
+      "genre": "rap"
+    },
+    {
+      "title": "Tutsak",
+      "artist": "Sefo",
+      "genre": "rap"
+    },
+    {
+      "title": "Duman",
+      "artist": "Murda",
+      "genre": "rap"
+    },
+    {
+      "title": "Eh Baba",
+      "artist": "Murda",
+      "genre": "rap"
+    },
+    {
+      "title": "Gönül",
+      "artist": "Murda",
+      "genre": "rap"
+    },
+    {
+      "title": "Dynamite",
+      "artist": "BTS",
+      "genre": "pop"
+    },
+    {
+      "title": "Butter",
+      "artist": "BTS",
+      "genre": "pop"
+    },
+    {
+      "title": "Fake Love",
+      "artist": "BTS",
+      "genre": "pop"
+    },
+    {
+      "title": "How You Like That",
+      "artist": "BLACKPINK",
+      "genre": "pop"
+    },
+    {
+      "title": "Kill This Love",
+      "artist": "BLACKPINK",
+      "genre": "pop"
+    },
+    {
+      "title": "Pink Venom",
+      "artist": "BLACKPINK",
+      "genre": "pop"
+    },
+    {
+      "title": "Radioactive",
+      "artist": "Imagine Dragons",
+      "genre": "rock"
+    },
+    {
+      "title": "Whatever It Takes",
+      "artist": "Imagine Dragons",
+      "genre": "rock"
+    },
+    {
+      "title": "Enemy",
+      "artist": "Imagine Dragons",
+      "genre": "rock"
+    },
+    {
+      "title": "Counting Stars",
+      "artist": "OneRepublic",
+      "genre": "pop"
+    },
+    {
+      "title": "I Ain’t Worried",
+      "artist": "OneRepublic",
+      "genre": "pop"
+    },
+    {
+      "title": "Apologize",
+      "artist": "OneRepublic",
+      "genre": "pop"
+    },
+    {
+      "title": "Mr. Brightside",
+      "artist": "The Killers",
+      "genre": "rock"
+    },
+    {
+      "title": "Human",
+      "artist": "The Killers",
+      "genre": "rock"
+    },
+    {
+      "title": "Somebody Told Me",
+      "artist": "The Killers",
+      "genre": "rock"
+    },
+    {
+      "title": "Let It Be",
+      "artist": "The Beatles",
+      "genre": "rock"
+    },
+    {
+      "title": "Hey Jude",
+      "artist": "The Beatles",
+      "genre": "rock"
+    },
+    {
+      "title": "Come Together",
+      "artist": "The Beatles",
+      "genre": "rock"
+    },
+    {
+      "title": "Another Brick in the Wall",
+      "artist": "Pink Floyd",
+      "genre": "rock"
+    },
+    {
+      "title": "Wish You Were Here",
+      "artist": "Pink Floyd",
+      "genre": "rock"
+    },
+    {
+      "title": "Comfortably Numb",
+      "artist": "Pink Floyd",
+      "genre": "rock"
+    },
+    {
+      "title": "Nothing Else Matters",
+      "artist": "Metallica",
+      "genre": "rock"
+    },
+    {
+      "title": "Enter Sandman",
+      "artist": "Metallica",
+      "genre": "rock"
+    },
+    {
+      "title": "The Unforgiven",
+      "artist": "Metallica",
+      "genre": "rock"
+    },
+    {
+      "title": "Everlong",
+      "artist": "Foo Fighters",
+      "genre": "rock"
+    },
+    {
+      "title": "The Pretender",
+      "artist": "Foo Fighters",
+      "genre": "rock"
+    },
+    {
+      "title": "Best of You",
+      "artist": "Foo Fighters",
+      "genre": "rock"
+    },
+    {
+      "title": "Zombie",
+      "artist": "The Cranberries",
+      "genre": "rock"
+    },
+    {
+      "title": "Linger",
+      "artist": "The Cranberries",
+      "genre": "rock"
+    },
+    {
+      "title": "Dreams",
+      "artist": "The Cranberries",
+      "genre": "rock"
+    },
+    {
+      "title": "Back to Black",
+      "artist": "Amy Winehouse",
+      "genre": "pop"
+    },
+    {
+      "title": "Rehab",
+      "artist": "Amy Winehouse",
+      "genre": "pop"
+    },
+    {
+      "title": "Valerie",
+      "artist": "Amy Winehouse",
+      "genre": "pop"
+    },
+    {
+      "title": "Sweet Child O Mine",
+      "artist": "Guns N Roses",
+      "genre": "rock"
+    },
+    {
+      "title": "November Rain",
+      "artist": "Guns N Roses",
+      "genre": "rock"
+    },
+    {
+      "title": "Welcome to the Jungle",
+      "artist": "Guns N Roses",
+      "genre": "rock"
+    },
+    {
+      "title": "Rocket Man",
+      "artist": "Elton John",
+      "genre": "pop"
+    },
+    {
+      "title": "Your Song",
+      "artist": "Elton John",
+      "genre": "pop"
+    },
+    {
+      "title": "Tiny Dancer",
+      "artist": "Elton John",
+      "genre": "pop"
+    },
+    {
+      "title": "Like a Prayer",
+      "artist": "Madonna",
+      "genre": "pop"
+    },
+    {
+      "title": "Vogue",
+      "artist": "Madonna",
+      "genre": "pop"
+    },
+    {
+      "title": "Hung Up",
+      "artist": "Madonna",
+      "genre": "pop"
+    },
+    {
+      "title": "My Heart Will Go On",
+      "artist": "Celine Dion",
+      "genre": "pop"
+    },
+    {
+      "title": "The Power of Love",
+      "artist": "Celine Dion",
+      "genre": "pop"
+    },
+    {
+      "title": "Because You Loved Me",
+      "artist": "Celine Dion",
+      "genre": "pop"
+    },
+    {
+      "title": "Despacito",
+      "artist": "Luis Fonsi",
+      "genre": "pop"
+    },
+    {
+      "title": "Gasolina",
+      "artist": "Daddy Yankee",
+      "genre": "pop"
+    },
+    {
+      "title": "Tití Me Preguntó",
+      "artist": "Bad Bunny",
+      "genre": "rap"
+    },
+    {
+      "title": "Moscow Mule",
+      "artist": "Bad Bunny",
+      "genre": "rap"
+    },
+    {
+      "title": "Flowers",
+      "artist": "Miley Cyrus",
+      "genre": "pop"
+    },
+    {
+      "title": "Wrecking Ball",
+      "artist": "Miley Cyrus",
+      "genre": "pop"
+    },
+    {
+      "title": "Party in the USA",
+      "artist": "Miley Cyrus",
+      "genre": "pop"
+    },
+    {
+      "title": "Royals",
+      "artist": "Lorde",
+      "genre": "pop"
+    },
+    {
+      "title": "Green Light",
+      "artist": "Lorde",
+      "genre": "pop"
+    },
+    {
+      "title": "Team",
+      "artist": "Lorde",
+      "genre": "pop"
+    },
+    {
+      "title": "Firework",
+      "artist": "Katy Perry",
+      "genre": "pop"
+    },
+    {
+      "title": "Roar",
+      "artist": "Katy Perry",
+      "genre": "pop"
+    },
+    {
+      "title": "Dark Horse",
+      "artist": "Katy Perry",
+      "genre": "pop"
+    },
+    {
+      "title": "Super Bass",
+      "artist": "Nicki Minaj",
+      "genre": "rap"
+    },
+    {
+      "title": "Starships",
+      "artist": "Nicki Minaj",
+      "genre": "rap"
+    },
+    {
+      "title": "Anaconda",
+      "artist": "Nicki Minaj",
+      "genre": "rap"
+    },
+    {
+      "title": "About Damn Time",
+      "artist": "Lizzo",
+      "genre": "pop"
+    },
+    {
+      "title": "Good as Hell",
+      "artist": "Lizzo",
+      "genre": "pop"
+    },
+    {
+      "title": "Truth Hurts",
+      "artist": "Lizzo",
+      "genre": "pop"
+    },
+    {
+      "title": "Şımarık",
+      "artist": "Tarkan",
+      "genre": "Türkçe Pop"
+    },
+    {
+      "title": "Kuzu Kuzu",
+      "artist": "Tarkan",
+      "genre": "Türkçe Pop"
+    },
+    {
+      "title": "Dudu",
+      "artist": "Tarkan",
+      "genre": "Türkçe Pop"
+    },
+    {
+      "title": "Öp",
+      "artist": "Tarkan",
+      "genre": "Türkçe Pop"
+    },
+    {
+      "title": "Antidepresan",
+      "artist": "Mabel Matiz",
+      "genre": "Alternatif"
+    },
+    {
+      "title": "A Canım",
+      "artist": "Mabel Matiz",
+      "genre": "Alternatif"
+    },
+    {
+      "title": "Fırtınadayım",
+      "artist": "Mabel Matiz",
+      "genre": "Alternatif"
+    },
+    {
+      "title": "Sarmaşık",
+      "artist": "Mabel Matiz",
+      "genre": "Alternatif"
+    },
+    {
+      "title": "Prenses",
+      "artist": "Hadise",
+      "genre": "Türkçe Pop"
+    },
+    {
+      "title": "Düm Tek Tek",
+      "artist": "Hadise",
+      "genre": "Türkçe Pop"
+    },
+    {
+      "title": "Yalnızlık Senfonisi",
+      "artist": "Model",
+      "genre": "Rock"
+    },
+    {
+      "title": "Değmesin Ellerimiz",
+      "artist": "Model",
+      "genre": "Rock"
+    },
+    {
+      "title": "Pembe Mezarlık",
+      "artist": "Model",
+      "genre": "Rock"
+    },
+    {
+      "title": "Buzdan Şato",
+      "artist": "Model",
+      "genre": "Rock"
+    }
+  ],
+  "closest": [
+    {
+      "d": "easy",
+      "c": "Coğrafya",
+      "t": "İtalya’nın yüzölçümü yaklaşık kaç bin km²’dir?",
+      "v": 301,
+      "u": "bin km²",
+      "x": "İtalya yaklaşık 301 bin km² yüzölçümüne sahiptir."
+    },
+    {
+      "d": "easy",
+      "c": "Coğrafya",
+      "t": "Japonya’nın yüzölçümü yaklaşık kaç bin km²’dir?",
+      "v": 378,
+      "u": "bin km²",
+      "x": "Japonya yaklaşık 378 bin km²’dir."
+    },
+    {
+      "d": "easy",
+      "c": "Coğrafya",
+      "t": "Fransa’nın yüzölçümü (metropol) yaklaşık kaç bin km²’dir?",
+      "v": 551,
+      "u": "bin km²",
+      "x": "Metropol Fransa yaklaşık 551 bin km²’dir."
+    },
+    {
+      "d": "easy",
+      "c": "Coğrafya",
+      "t": "Almanya’nın yüzölçümü yaklaşık kaç bin km²’dir?",
+      "v": 357,
+      "u": "bin km²",
+      "x": "Almanya yaklaşık 357 bin km²’dir."
+    },
+    {
+      "d": "easy",
+      "c": "Coğrafya",
+      "t": "İspanya’nın yüzölçümü yaklaşık kaç bin km²’dir?",
+      "v": 506,
+      "u": "bin km²",
+      "x": "İspanya yaklaşık 506 bin km²’dir."
+    },
+    {
+      "d": "easy",
+      "c": "Coğrafya",
+      "t": "Portekiz’in yüzölçümü yaklaşık kaç bin km²’dir?",
+      "v": 92,
+      "u": "bin km²",
+      "x": "Portekiz yaklaşık 92 bin km²’dir."
+    },
+    {
+      "d": "easy",
+      "c": "Coğrafya",
+      "t": "Yunanistan’ın yüzölçümü yaklaşık kaç bin km²’dir?",
+      "v": 132,
+      "u": "bin km²",
+      "x": "Yunanistan yaklaşık 132 bin km²’dir."
+    },
+    {
+      "d": "easy",
+      "c": "Coğrafya",
+      "t": "İsviçre’nin yüzölçümü yaklaşık kaç bin km²’dir?",
+      "v": 41,
+      "u": "bin km²",
+      "x": "İsviçre yaklaşık 41 bin km²’dir."
+    },
+    {
+      "d": "easy",
+      "c": "Coğrafya",
+      "t": "Norveç’in yüzölçümü yaklaşık kaç bin km²’dir?",
+      "v": 385,
+      "u": "bin km²",
+      "x": "Norveç yaklaşık 385 bin km²’dir."
+    },
+    {
+      "d": "easy",
+      "c": "Coğrafya",
+      "t": "İzlanda’nın yüzölçümü yaklaşık kaç bin km²’dir?",
+      "v": 103,
+      "u": "bin km²",
+      "x": "İzlanda yaklaşık 103 bin km²’dir."
+    },
+    {
+      "d": "easy",
+      "c": "Coğrafya",
+      "t": "İstanbul Boğazı’nın uzunluğu yaklaşık kaç kilometredir?",
+      "v": 30,
+      "u": "km",
+      "x": "İstanbul Boğazı yaklaşık 30 km uzunluğundadır."
+    },
+    {
+      "d": "easy",
+      "c": "Coğrafya",
+      "t": "Golden Gate Köprüsü’nün ana açıklığı yaklaşık kaç metredir?",
+      "v": 1280,
+      "u": "m",
+      "x": "Ana açıklığı yaklaşık 1.280 metredir."
+    },
+    {
+      "d": "easy",
+      "c": "Coğrafya",
+      "t": "Panama Kanalı’nın uzunluğu yaklaşık kaç kilometredir?",
+      "v": 82,
+      "u": "km",
+      "x": "Panama Kanalı yaklaşık 82 km uzunluğundadır."
+    },
+    {
+      "d": "easy",
+      "c": "Coğrafya",
+      "t": "Kilimanjaro Dağı yaklaşık kaç metre yüksekliğindedir?",
+      "v": 5895,
+      "u": "m",
+      "x": "Kilimanjaro yaklaşık 5.895 metredir."
+    },
+    {
+      "d": "easy",
+      "c": "Coğrafya",
+      "t": "Mont Blanc yaklaşık kaç metre yüksekliğindedir?",
+      "v": 4808,
+      "u": "m",
+      "x": "Mont Blanc yaklaşık 4.808 metredir."
+    },
+    {
+      "d": "easy",
+      "c": "Coğrafya",
+      "t": "Kızılırmak Nehri yaklaşık kaç kilometre uzunluğundadır?",
+      "v": 1355,
+      "u": "km",
+      "x": "Kızılırmak yaklaşık 1.355 km uzunluğundadır."
+    },
+    {
+      "d": "easy",
+      "c": "Coğrafya",
+      "t": "Süveyş Kanalı yaklaşık kaç kilometre uzunluğundadır?",
+      "v": 193,
+      "u": "km",
+      "x": "Süveyş Kanalı yaklaşık 193 km uzunluğundadır."
+    },
+    {
+      "d": "easy",
+      "c": "Coğrafya",
+      "t": "Büyük Set Resifi yaklaşık kaç kilometre uzunluğundadır?",
+      "v": 2300,
+      "u": "km",
+      "x": "Büyük Set Resifi yaklaşık 2.300 km boyunca uzanır."
+    },
+    {
+      "d": "easy",
+      "c": "Coğrafya",
+      "t": "Dünyanın çevresi ekvatorda yaklaşık kaç kilometredir?",
+      "v": 40075,
+      "u": "km",
+      "x": "Ekvator çevresi yaklaşık 40.075 km'dir."
+    },
+    {
+      "d": "easy",
+      "c": "Coğrafya",
+      "t": "Dünya'nın yüzey alanı yaklaşık kaç milyon km²’dir?",
+      "v": 510,
+      "u": "milyon km²",
+      "x": "Dünya'nın yüzey alanı yaklaşık 510 milyon km²."
+    },
+    {
+      "d": "medium",
+      "c": "Bilim",
+      "t": "Bir insanın normal vücut sıcaklığı Celsius olarak yaklaşık kaçtır?",
+      "v": 37,
+      "u": "°C",
+      "x": "Ortalama referans değer yaklaşık 37 °C, bireysel değişkenlik vardır."
+    },
+    {
+      "d": "medium",
+      "c": "Bilim",
+      "t": "Bir yetişkinin vücudunda yaklaşık kaç kemik vardır?",
+      "v": 206,
+      "u": "kemik",
+      "x": "Yetişkin insan iskeletinde yaklaşık 206 kemik bulunur."
+    },
+    {
+      "d": "medium",
+      "c": "Bilim",
+      "t": "Bir insanın akciğer kapasitesi toplamda yaklaşık kaç litredir?",
+      "v": 6,
+      "u": "litre",
+      "x": "Toplam kapasite yetişkinlerde kabaca 6 litre civarındadır."
+    },
+    {
+      "d": "medium",
+      "c": "Bilim",
+      "t": "Dünya atmosferinin deniz seviyesindeki basıncı kaç hPa civarındadır?",
+      "v": 1013,
+      "u": "hPa",
+      "x": "Standart atmosfer basıncı 1013,25 hPa'dır."
+    },
+    {
+      "d": "medium",
+      "c": "Bilim",
+      "t": "Bir ışık yılı yaklaşık kaç trilyon kilometredir?",
+      "v": 9.46,
+      "u": "trilyon km",
+      "x": "Bir ışık yılı yaklaşık 9,46 trilyon km'dir."
+    },
+    {
+      "d": "medium",
+      "c": "Bilim",
+      "t": "Güneş'in çapı yaklaşık kaç kilometredir?",
+      "v": 1392700,
+      "u": "km",
+      "x": "Güneş'in çapı yaklaşık 1,39 milyon km'dir."
+    },
+    {
+      "d": "medium",
+      "c": "Bilim",
+      "t": "Dünya'nın yaşı yaklaşık kaç milyar yıldır?",
+      "v": 4.54,
+      "u": "milyar yıl",
+      "x": "Dünya'nın yaşı yaklaşık 4,54 milyar yıl."
+    },
+    {
+      "d": "medium",
+      "c": "Bilim",
+      "t": "Bir insan beyninin ortalama ağırlığı yaklaşık kaç gramdır?",
+      "v": 1400,
+      "u": "g",
+      "x": "Yetişkin beyin ağırlığı kabaca 1.300–1.400 gram."
+    },
+    {
+      "d": "medium",
+      "c": "Bilim",
+      "t": "DNA çift sarmalının çapı yaklaşık kaç nanometredir?",
+      "v": 2,
+      "u": "nm",
+      "x": "DNA çift sarmalı yaklaşık 2 nm çapındadır."
+    },
+    {
+      "d": "medium",
+      "c": "Bilim",
+      "t": "Su molekülünün molar kütlesi yaklaşık kaç gram/mol’dür?",
+      "v": 18,
+      "u": "g/mol",
+      "x": "H₂O yaklaşık 18 g/mol molar kütleye sahiptir."
+    },
+    {
+      "d": "medium",
+      "c": "Bilim",
+      "t": "Bir atomun çekirdeğinin çapı tipik olarak kaç femtometre mertebesindedir?",
+      "v": 10,
+      "u": "fm",
+      "x": "Atom çekirdekleri yaklaşık birkaç ila 10 femtometre mertebesindedir."
+    },
+    {
+      "d": "medium",
+      "c": "Bilim",
+      "t": "Dünya'nın dönme eksenindeki eğiklik yaklaşık kaç derecedir?",
+      "v": 23.5,
+      "u": "°",
+      "x": "Eksen eğikliği yaklaşık 23,5 derecedir."
+    },
+    {
+      "d": "medium",
+      "c": "Bilim",
+      "t": "Ay'ın çapı yaklaşık kaç kilometredir?",
+      "v": 3474,
+      "u": "km",
+      "x": "Ay çapı yaklaşık 3.474 km'dir."
+    },
+    {
+      "d": "medium",
+      "c": "Uzay",
+      "t": "Satürn'ün çapı yaklaşık kaç kilometredir?",
+      "v": 120536,
+      "u": "km",
+      "x": "Satürn ekvator çapı yaklaşık 120.536 km'dir."
+    },
+    {
+      "d": "medium",
+      "c": "Uzay",
+      "t": "Neptün'ün Güneş'e ortalama uzaklığı kaç milyar kilometredir?",
+      "v": 4.5,
+      "u": "milyar km",
+      "x": "Neptün yaklaşık 4,5 milyar km uzaklıktadır."
+    },
+    {
+      "d": "medium",
+      "c": "Uzay",
+      "t": "Venüs yüzey sıcaklığı yaklaşık kaç °C'dir?",
+      "v": 465,
+      "u": "°C",
+      "x": "Venüs yüzeyi yaklaşık 465 °C'dir."
+    },
+    {
+      "d": "medium",
+      "c": "Uzay",
+      "t": "Mars'ta bir gün yaklaşık kaç saat sürer?",
+      "v": 24.6,
+      "u": "saat",
+      "x": "Mars günü yaklaşık 24 saat 37 dakika."
+    },
+    {
+      "d": "medium",
+      "c": "Uzay",
+      "t": "Jüpiter'in bir günü yaklaşık kaç saat sürer?",
+      "v": 9.9,
+      "u": "saat",
+      "x": "Jüpiter yaklaşık 9 saat 56 dakikada döner."
+    },
+    {
+      "d": "medium",
+      "c": "Uzay",
+      "t": "Güneş ışığının Dünya'ya ulaşması yaklaşık kaç saniye sürer?",
+      "v": 499,
+      "u": "saniye",
+      "x": "Yaklaşık 8 dakika 19 saniye, yani 499 saniye."
+    },
+    {
+      "d": "medium",
+      "c": "Uzay",
+      "t": "Samanyolu'nun çapı yaklaşık kaç bin ışık yılıdır?",
+      "v": 100,
+      "u": "bin ışık yılı",
+      "x": "Samanyolu'nun yıldız disk çapı kabaca 100 bin ışık yılı."
+    },
+    {
+      "d": "medium",
+      "c": "Tarih",
+      "t": "Piramitlerin en büyüğü Büyük Giza Piramidi başlangıçta yaklaşık kaç metre yüksekliğindeydi?",
+      "v": 146,
+      "u": "m",
+      "x": "Büyük Giza Piramidi başlangıçta yaklaşık 146,6 m yüksekliğindeydi."
+    },
+    {
+      "d": "medium",
+      "c": "Tarih",
+      "t": "Roma Kolezyumu'nun kapasitesi yaklaşık kaç seyircidir?",
+      "v": 50000,
+      "u": "kişi",
+      "x": "Kolezyum yaklaşık 50 bin seyirci kapasiteliydi."
+    },
+    {
+      "d": "medium",
+      "c": "Tarih",
+      "t": "Titanik'in ilk yolculuğunda yaklaşık kaç yolcu ve mürettebat vardı?",
+      "v": 2200,
+      "u": "kişi",
+      "x": "Titanik'te yaklaşık 2.200 kişi bulunuyordu."
+    },
+    {
+      "d": "medium",
+      "c": "Tarih",
+      "t": "Apollo 11 Ay'a inişi hangi yıl gerçekleştirdi?",
+      "v": 1969,
+      "u": "yıl",
+      "x": "Apollo 11 1969'da Ay'a indi."
+    },
+    {
+      "d": "medium",
+      "c": "Tarih",
+      "t": "Berlin Duvarı yaklaşık kaç kilometre uzunluğundaydı?",
+      "v": 155,
+      "u": "km",
+      "x": "Berlin Duvarı ve çevre sistemi yaklaşık 155 km uzunluğundaydı."
+    },
+    {
+      "d": "medium",
+      "c": "Tarih",
+      "t": "Eyfel Kulesi anteniyle birlikte yaklaşık kaç metre yüksekliğindedir?",
+      "v": 330,
+      "u": "m",
+      "x": "Eyfel Kulesi anteniyle yaklaşık 330 m'dir."
+    },
+    {
+      "d": "medium",
+      "c": "Tarih",
+      "t": "Tac Mahal'in yapımı yaklaşık kaç yıl sürdü?",
+      "v": 22,
+      "u": "yıl",
+      "x": "Tac Mahal'in ana yapım süreci yaklaşık 22 yıl sürdü."
+    },
+    {
+      "d": "medium",
+      "c": "Tarih",
+      "t": "Notre-Dame Katedrali'nin ilk inşa süreci yaklaşık kaç yıl sürmüştür?",
+      "v": 180,
+      "u": "yıl",
+      "x": "İnşaat 1163'te başlayıp 14. yüzyıl ortalarında tamamlandı; yaklaşık 180 yıl."
+    },
+    {
+      "d": "medium",
+      "c": "Spor",
+      "t": "Maraton koşusunun resmi mesafesi kaç kilometredir?",
+      "v": 42.195,
+      "u": "km",
+      "x": "Maraton mesafesi 42,195 km'dir."
+    },
+    {
+      "d": "medium",
+      "c": "Spor",
+      "t": "Olimpik yüzme havuzunun uzunluğu kaç metredir?",
+      "v": 50,
+      "u": "m",
+      "x": "Olimpik havuz uzunluğu 50 metredir."
+    },
+    {
+      "d": "medium",
+      "c": "Spor",
+      "t": "Bir Formula 1 yarışında pist uzunluğu çoğunlukla en az kaç kilometre civarındadır?",
+      "v": 3,
+      "u": "km",
+      "x": "Pist uzunlukları değişir; birçok pist 3 km ve üzerindedir."
+    },
+    {
+      "d": "medium",
+      "c": "Spor",
+      "t": "Tenis kortunun tekler genişliği kaç metredir?",
+      "v": 8.23,
+      "u": "m",
+      "x": "Tekler kortu genişliği 8,23 metredir."
+    },
+    {
+      "d": "medium",
+      "c": "Spor",
+      "t": "Basketbol potasının yerden yüksekliği kaç metredir?",
+      "v": 3.05,
+      "u": "m",
+      "x": "Basketbol potası 3,05 metre yüksekliğindedir."
+    },
+    {
+      "d": "medium",
+      "c": "Spor",
+      "t": "Voleybol filesinin erkekler için yüksekliği kaç metredir?",
+      "v": 2.43,
+      "u": "m",
+      "x": "Erkekler file yüksekliği 2,43 metredir."
+    },
+    {
+      "d": "medium",
+      "c": "Spor",
+      "t": "Voleybol filesinin kadınlar için yüksekliği kaç metredir?",
+      "v": 2.24,
+      "u": "m",
+      "x": "Kadınlar file yüksekliği 2,24 metredir."
+    },
+    {
+      "d": "medium",
+      "c": "Spor",
+      "t": "Futbol topunun çevresi yaklaşık kaç santimetredir?",
+      "v": 69,
+      "u": "cm",
+      "x": "5 numara topun çevresi 68–70 cm aralığındadır."
+    },
+    {
+      "d": "medium",
+      "c": "Spor",
+      "t": "NBA üç sayı çizgisinin uzaklığı köşelerde yaklaşık kaç metredir?",
+      "v": 6.7,
+      "u": "m",
+      "x": "Köşe üçlüğü yaklaşık 6,7 metre uzaklıktadır."
+    },
+    {
+      "d": "medium",
+      "c": "Spor",
+      "t": "Bir bowling oyununda toplam kaç pin vardır?",
+      "v": 10,
+      "u": "pin",
+      "x": "Bowlingde 10 pin bulunur."
+    },
+    {
+      "d": "hard",
+      "c": "Teknoloji",
+      "t": "HTML5'in resmi olarak öneri haline geldiği yıl hangisidir?",
+      "v": 2014,
+      "u": "yıl",
+      "x": "HTML5 W3C Recommendation olarak 2014'te yayımlandı."
+    },
+    {
+      "d": "hard",
+      "c": "Teknoloji",
+      "t": "IPv4 adresi kaç bit uzunluğundadır?",
+      "v": 32,
+      "u": "bit",
+      "x": "IPv4 adresleri 32 bit uzunluğundadır."
+    },
+    {
+      "d": "hard",
+      "c": "Teknoloji",
+      "t": "IPv6 adresi kaç bit uzunluğundadır?",
+      "v": 128,
+      "u": "bit",
+      "x": "IPv6 adresleri 128 bit uzunluğundadır."
+    },
+    {
+      "d": "hard",
+      "c": "Bilim",
+      "t": "Avogadro sabiti yaklaşık kaçtır?",
+      "v": 6.022e+23,
+      "u": "mol⁻¹",
+      "x": "Avogadro sabiti yaklaşık 6,022×10²³."
+    },
+    {
+      "d": "hard",
+      "c": "Bilim",
+      "t": "Demirin erime noktası yaklaşık kaç °C'dir?",
+      "v": 1538,
+      "u": "°C",
+      "x": "Demir yaklaşık 1.538 °C'de erir."
+    },
+    {
+      "d": "hard",
+      "c": "Bilim",
+      "t": "Bakırın elektriksel iletkenliği 20 °C civarında yaklaşık kaç MS/m'dir?",
+      "v": 58,
+      "u": "MS/m",
+      "x": "Bakır iletkenliği yaklaşık 58 MS/m'dir."
+    },
+    {
+      "d": "hard",
+      "c": "Bilim",
+      "t": "Sesin suda hızı yaklaşık kaç m/s'dir?",
+      "v": 1500,
+      "u": "m/s",
+      "x": "Suda ses yaklaşık 1.500 m/s hızla yayılır."
+    },
+    {
+      "d": "hard",
+      "c": "Bilim",
+      "t": "Yerçekimi ivmesi Dünya yüzeyinde yaklaşık kaç m/s²'dir?",
+      "v": 9.81,
+      "u": "m/s²",
+      "x": "Standart yerçekimi ivmesi yaklaşık 9,81 m/s²."
+    },
+    {
+      "d": "hard",
+      "c": "Bilim",
+      "t": "Bir bar kaç pascal'dır?",
+      "v": 100000,
+      "u": "Pa",
+      "x": "1 bar 100.000 Pa'dır."
+    },
+    {
+      "d": "hard",
+      "c": "Bilim",
+      "t": "Bir kilowatt saat kaç joule'dür?",
+      "v": 3600000,
+      "u": "J",
+      "x": "1 kWh 3,6 milyon joule'dür."
+    },
+    {
+      "d": "hard",
+      "c": "Bilim",
+      "t": "Bir hektar kaç metrekare eder?",
+      "v": 10000,
+      "u": "m²",
+      "x": "1 hektar 10.000 metrekaredir."
+    },
+    {
+      "d": "hard",
+      "c": "Bilim",
+      "t": "Bir deniz mili kaç metre kabul edilir?",
+      "v": 1852,
+      "u": "m",
+      "x": "Bir deniz mili 1.852 metredir."
+    },
+    {
+      "d": "hard",
+      "c": "Bilim",
+      "t": "Bir knot saatte kaç kilometreye eşittir?",
+      "v": 1.852,
+      "u": "km/h",
+      "x": "1 knot 1,852 km/saat eder."
+    },
+    {
+      "d": "hard",
+      "c": "Bilim",
+      "t": "Standart bir atomik saat saniyeyi hangi atomun geçişiyle tanımlar?",
+      "v": 9192631770,
+      "u": "Hz",
+      "x": "Saniye, sezyum-133 atomunun belirli geçiş frekansına göre tanımlanır; 9.192.631.770 Hz."
+    },
+    {
+      "d": "hard",
+      "c": "Coğrafya",
+      "t": "Antarktika'nın en kalın ölçülen buz tabakası yaklaşık kaç metredir?",
+      "v": 4776,
+      "u": "m",
+      "x": "Bazı ölçümlerde buz kalınlığı yaklaşık 4.776 metreye ulaşır."
+    },
+    {
+      "d": "hard",
+      "c": "Coğrafya",
+      "t": "Ölü Deniz yüzeyi deniz seviyesinden yaklaşık kaç metre aşağıdadır?",
+      "v": 430,
+      "u": "m",
+      "x": "Ölü Deniz kıyıları yaklaşık 430 m deniz seviyesinin altındadır; seviye değişebilir."
+    },
+    {
+      "d": "hard",
+      "c": "Coğrafya",
+      "t": "Dünyanın en büyük adası Grönland'ın yüzölçümü yaklaşık kaç milyon km²'dir?",
+      "v": 2.17,
+      "u": "milyon km²",
+      "x": "Grönland yaklaşık 2,17 milyon km²."
+    },
+    {
+      "d": "hard",
+      "c": "Coğrafya",
+      "t": "Londra ile Paris arasındaki kuş uçuşu mesafe yaklaşık kaç kilometredir?",
+      "v": 344,
+      "u": "km",
+      "x": "Kuş uçuşu mesafe yaklaşık 344 km."
+    },
+    {
+      "d": "hard",
+      "c": "Coğrafya",
+      "t": "İstanbul ile Ankara arasındaki kuş uçuşu mesafe yaklaşık kaç kilometredir?",
+      "v": 350,
+      "u": "km",
+      "x": "İki şehir arası kuş uçuşu yaklaşık 350 km."
+    },
+    {
+      "d": "hard",
+      "c": "Coğrafya",
+      "t": "Dünyanın en yüksek şelalesi Angel Şelalesi yaklaşık kaç metre yüksektir?",
+      "v": 979,
+      "u": "m",
+      "x": "Angel Şelalesi yaklaşık 979 m yüksekliğindedir."
+    },
+    {
+      "d": "hard",
+      "c": "Coğrafya",
+      "t": "Victoria Şelalesi'nin genişliği yaklaşık kaç metredir?",
+      "v": 1700,
+      "u": "m",
+      "x": "Victoria Şelalesi yaklaşık 1.700 m genişliğindedir."
+    },
+    {
+      "d": "hard",
+      "c": "Coğrafya",
+      "t": "Bering Boğazı'nın en dar noktası yaklaşık kaç kilometredir?",
+      "v": 85,
+      "u": "km",
+      "x": "Bering Boğazı en dar yerde yaklaşık 85 km genişliğindedir."
+    },
+    {
+      "d": "hard",
+      "c": "Coğrafya",
+      "t": "Kuzey Kutbu ile Güney Kutbu arasındaki yüzey mesafesi meridyen boyunca yaklaşık kaç kilometredir?",
+      "v": 20000,
+      "u": "km",
+      "x": "Meridyen boyunca yarım çevre yaklaşık 20.000 km'dir."
+    },
+    {
+      "d": "easy",
+      "c": "Bilim",
+      "t": "Bir standart satranç tahtasında kaç kare bulunur?",
+      "v": 64,
+      "u": "kare",
+      "x": "Satranç tahtasında 8×8=64 küçük kare bulunur."
+    },
+    {
+      "d": "easy",
+      "c": "Bilim",
+      "t": "Bir düzinede kaç adet vardır?",
+      "v": 12,
+      "u": "adet",
+      "x": "Bir düzine 12 adettir."
+    },
+    {
+      "d": "easy",
+      "c": "Bilim",
+      "t": "Bir futbol takımında sahada kaç oyuncu bulunur?",
+      "v": 11,
+      "u": "oyuncu",
+      "x": "Futbol takımı sahada 11 oyuncuyla oynar."
+    },
+    {
+      "d": "easy",
+      "c": "Coğrafya",
+      "t": "Türkiye kaç coğrafi bölgeye ayrılır?",
+      "v": 7,
+      "u": "bölge",
+      "x": "Türkiye 7 coğrafi bölgeye ayrılır."
+    },
+    {
+      "d": "easy",
+      "c": "Coğrafya",
+      "t": "Türkiye’nin kıyı uzunluğu yaklaşık kaç kilometredir?",
+      "v": 8333,
+      "u": "km",
+      "x": "Türkiye toplam kıyı uzunluğu yaklaşık 8.333 km olarak verilir."
+    },
+    {
+      "d": "medium",
+      "c": "Bilim",
+      "t": "Dünyanın atmosferinde azot yaklaşık yüzde kaç oranındadır?",
+      "v": 78,
+      "u": "%",
+      "x": "Atmosferin yaklaşık %78’i azottur."
+    },
+    {
+      "d": "medium",
+      "c": "Bilim",
+      "t": "Dünyanın atmosferinde oksijen yaklaşık yüzde kaç oranındadır?",
+      "v": 21,
+      "u": "%",
+      "x": "Atmosferin yaklaşık %21’i oksijendir."
+    },
+    {
+      "d": "medium",
+      "c": "Bilim",
+      "t": "Bir insan kalbi dakikada dinlenmede ortalama kaç kez atar?",
+      "v": 70,
+      "u": "atım",
+      "x": "Dinlenme kalp hızı kişiye göre değişir, yaklaşık 60–100 aralığında."
+    },
+    {
+      "d": "medium",
+      "c": "Bilim",
+      "t": "Bir yetişkin insanın günlük uyku önerisi kaç saat civarındadır?",
+      "v": 8,
+      "u": "saat",
+      "x": "Çoğu yetişkin için 7–9 saat aralığı önerilir."
+    },
+    {
+      "d": "medium",
+      "c": "Spor",
+      "t": "Futbol maçının normal süresi uzatma hariç kaç dakikadır?",
+      "v": 90,
+      "u": "dakika",
+      "x": "Normal maç süresi 90 dakika."
+    },
+    {
+      "d": "medium",
+      "c": "Spor",
+      "t": "Bir voleybol seti (5. set hariç) genellikle kaç puana oynanır?",
+      "v": 25,
+      "u": "puan",
+      "x": "Setler 25 puana, karar seti 15 puana oynanır."
+    },
+    {
+      "d": "medium",
+      "c": "Spor",
+      "t": "Bir tenis maçında Grand Slam erkekler finalinde kaç set kazanmak gerekir?",
+      "v": 3,
+      "u": "set",
+      "x": "Grand Slam erkekler maçları 5 set üzerinden oynanır; 3 set kazanmak gerekir."
+    },
+    {
+      "d": "medium",
+      "c": "Tarih",
+      "t": "Türkiye Cumhuriyeti hangi yılda ilan edildi?",
+      "v": 1923,
+      "u": "yıl",
+      "x": "Cumhuriyet 29 Ekim 1923’te ilan edildi."
+    },
+    {
+      "d": "medium",
+      "c": "Tarih",
+      "t": "İstanbul’un fethi hangi yılda gerçekleşti?",
+      "v": 1453,
+      "u": "yıl",
+      "x": "İstanbul 1453 yılında fethedildi."
+    },
+    {
+      "d": "medium",
+      "c": "Tarih",
+      "t": "Fransız Devrimi hangi yılda başladı?",
+      "v": 1789,
+      "u": "yıl",
+      "x": "Fransız Devrimi 1789 yılında başladı."
+    },
+    {
+      "d": "medium",
+      "c": "Teknoloji",
+      "t": "Bir gigabayt (decimal) kaç megabayttır?",
+      "v": 1000,
+      "u": "MB",
+      "x": "SI kullanımında 1 GB 1.000 MB kabul edilir."
+    },
+    {
+      "d": "medium",
+      "c": "Teknoloji",
+      "t": "Bir byte kaç bit içerir?",
+      "v": 8,
+      "u": "bit",
+      "x": "1 byte 8 bit içerir."
+    },
+    {
+      "d": "medium",
+      "c": "Teknoloji",
+      "t": "QR kod standardı ilk hangi yılda ortaya çıktı?",
+      "v": 1994,
+      "u": "yıl",
+      "x": "QR kod 1994 yılında geliştirildi."
+    },
+    {
+      "d": "hard",
+      "c": "Coğrafya",
+      "t": "Amazon Nehri’nin uzunluğu yaklaşık kaç kilometre olarak ölçülür?",
+      "v": 6400,
+      "u": "km",
+      "x": "Kaynağa göre değişmekle birlikte yaklaşık 6.400 km civarı."
+    },
+    {
+      "d": "hard",
+      "c": "Coğrafya",
+      "t": "Nil Nehri’nin uzunluğu yaklaşık kaç kilometredir?",
+      "v": 6650,
+      "u": "km",
+      "x": "Nil yaklaşık 6.650 km olarak kabul edilir."
+    },
+    {
+      "d": "hard",
+      "c": "Coğrafya",
+      "t": "Everest Dağı’nın güncel resmi yüksekliği yaklaşık kaç metredir?",
+      "v": 8849,
+      "u": "m",
+      "x": "Everest 8.848,86 metre; yuvarlak 8.849 m."
+    },
+    {
+      "d": "hard",
+      "c": "Coğrafya",
+      "t": "Atacama Çölü’nün bazı bölgelerinde yıllık yağış ortalaması kaç mm’nin altına düşebilir?",
+      "v": 1,
+      "u": "mm",
+      "x": "Bazı hiper-kurak alanlarda yıllık yağış 1 mm’nin altına düşebilir."
+    },
+    {
+      "d": "hard",
+      "c": "Bilim",
+      "t": "Suyun standart basınçta kaynama noktası kaç °C’dir?",
+      "v": 100,
+      "u": "°C",
+      "x": "Deniz seviyesinde standart basınçta 100 °C."
+    },
+    {
+      "d": "hard",
+      "c": "Bilim",
+      "t": "Suyun standart basınçta donma noktası kaç °C’dir?",
+      "v": 0,
+      "u": "°C",
+      "x": "Standart koşullarda su 0 °C’de donar."
+    },
+    {
+      "d": "hard",
+      "c": "Bilim",
+      "t": "Bir kilogram kaç gramdır?",
+      "v": 1000,
+      "u": "g",
+      "x": "1 kg 1.000 gramdır."
+    },
+    {
+      "d": "hard",
+      "c": "Bilim",
+      "t": "Bir kilometre kaç metredir?",
+      "v": 1000,
+      "u": "m",
+      "x": "1 km 1.000 metredir."
+    },
+    {
+      "d": "hard",
+      "c": "Bilim",
+      "t": "Bir metreküp kaç litreye eşittir?",
+      "v": 1000,
+      "u": "L",
+      "x": "1 m³ 1.000 litreye eşittir."
+    },
+    {
+      "d": "hard",
+      "c": "Uzay",
+      "t": "Güneş sisteminde kaç gezegen vardır?",
+      "v": 8,
+      "u": "gezegen",
+      "x": "Güneş sisteminde 8 gezegen bulunur."
+    },
+    {
+      "d": "hard",
+      "c": "Uzay",
+      "t": "Merkür’ün Güneş etrafındaki yörünge süresi kaç Dünya günüdür?",
+      "v": 88,
+      "u": "gün",
+      "x": "Merkür yılı yaklaşık 88 Dünya günüdür."
+    },
+    {
+      "d": "hard",
+      "c": "Uzay",
+      "t": "Dünya’nın Güneş etrafındaki yörüngesi yaklaşık kaç gündür?",
+      "v": 365.25,
+      "u": "gün",
+      "x": "Yıl yaklaşık 365,25 gündür."
+    },
+    {
+      "d": "hard",
+      "c": "Spor",
+      "t": "Bir futbol sahasının standart genişliği UEFA maçlarında kaç metre aralığında olabilir?",
+      "v": 68,
+      "u": "m",
+      "x": "Uluslararası maçlarda genişlik 64–75 m; sık kullanılan ölçü 68 m."
+    },
+    {
+      "d": "hard",
+      "c": "Spor",
+      "t": "Bir olimpik atletizm pistinin bir turu kaç metredir?",
+      "v": 400,
+      "u": "m",
+      "x": "Standart açık hava atletizm pisti 400 metredir."
+    },
+    {
+      "d": "hard",
+      "c": "Spor",
+      "t": "Bir golf sahasında standart tur kaç delikten oluşur?",
+      "v": 18,
+      "u": "delik",
+      "x": "Standart golf turu 18 deliktir."
+    }
+  ]
+}
